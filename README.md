@@ -10,7 +10,7 @@
 
 ## About Us
 
-Nyxara India is a technology-focused company helping businesses transform ideas into impactful digital products. We combine strategy, design, development, and engineering to build solutions that are elegant, efficient, and built for growth.
+Nyxara India is a technology-focused company helping businesses transform ideas into impactful digital products. We combine strategy, design, development, and engineering to build solutions that are elegant, reliable, and measurable.
 
 From startups to growing enterprises, we partner with organizations to create products that improve customer engagement, streamline operations, and unlock new opportunities.
 
@@ -75,9 +75,9 @@ Nyxara India helps organizations:
 We’re ready to collaborate on your next digital initiative.
 
 - Website: https://nyxaraindia.github.io
-- Email: hello@nyxaraindia.com
+- Email: nyxarasupport.in@gmail.com
 - GitHub: https://github.com/nyxaraindia
-- LinkedIn: https://www.linkedin.com/company/nyxaraindia
+- LinkedIn: https://www.linkedin.com/company/nyxara-in/
 
 ---
 
