@@ -74,7 +74,7 @@ Nyxara India helps organizations:
 
 We’re ready to collaborate on your next digital initiative.
 
-- Website: https://nyxaraindia.github.io
+- **Website:** [NYXARA India](https://nyxaraindia.github.io/NYXARA-INDIA/)
 - Email: nyxarasupport.in@gmail.com
 - GitHub: https://github.com/nyxaraindia
 - LinkedIn: https://www.linkedin.com/company/nyxara-in/
